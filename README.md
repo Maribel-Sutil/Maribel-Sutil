@@ -1,8 +1,8 @@
-## Hola soy Maribel 
+## Hola soy Maribel  :wave:
 
 <img src="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2022/11/mejores-lenguajes-de-programacion.jpg" alt="10" width="1000" />
 
-### Estudiando
+### Estudiando :wave:
 
   - [CIFPD "La Conservera" Región de Murcia.](https://sites.google.com/view/fplaconservera/ies-los-albares-de-cieza)
 
@@ -26,7 +26,7 @@
 
 ---
 
-### Stack Tecnológico Conocido
+### Stack Tecnológico Conocido :green_book:
 
 - ![Static Badge](https://img.shields.io/badge/Java%20-%20red?style=flat)
 
@@ -39,7 +39,7 @@
 
 ---
 
-### Stack Tecnológico en curso
+### Stack Tecnológico en curso :notebook:
 
 - ![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA%20-%20black?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
 
@@ -52,7 +52,7 @@
 
 ---
 
-### Preferencias Tecnológicas
+### Preferencias Tecnológicas  :purple_heart:
 
 - ![Static Badge](https://img.shields.io/badge/Backend%20-%20purple?style=plastic)
 
