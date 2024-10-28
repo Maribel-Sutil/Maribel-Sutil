@@ -2,7 +2,7 @@
 
 <img src="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2022/11/mejores-lenguajes-de-programacion.jpg" alt="10" width="1000" />
 
-### Estudiando :wave:
+### Estudiando :school:
 
   - [CIFPD "La Conservera" Región de Murcia.](https://sites.google.com/view/fplaconservera/ies-los-albares-de-cieza)
 
