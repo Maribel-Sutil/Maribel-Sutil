@@ -28,28 +28,40 @@
 
 ### Stack Tecnológico Conocido
 
-- Java
-- Python
-- HTML5
-- VScode
+- ![Static Badge](https://img.shields.io/badge/Java%20-%20red?style=flat)
+
+- ![Static Badge](https://img.shields.io/badge/Python%20-%20%20yellow?style=flat&logo=Python&logoColor=blue)
+
+- ![Static Badge](https://img.shields.io/badge/HTML5%20-%20grey?style=flat&logo=HTML5&logoColor=blue)
+
+- ![Static Badge](https://img.shields.io/badge/VSCode%20-%20blue?style=flat)
+
 
 ---
 
 ### Stack Tecnológico en curso
 
-- IntelliJ IDEA
-- VeraCrypt
-- Trello
-- Apache Hadoop
+- ![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA%20-%20black?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
+
+- ![Static Badge](https://img.shields.io/badge/VeraCrypt%20-%20purple?style=flat-square)
+
+- ![Static Badge](https://img.shields.io/badge/Trello%20-%20blue?style=flat-square&logo=Trello&logoColor=white)
+
+- ![Static Badge](https://img.shields.io/badge/Apache%20-%20black?style=flat-square&logo=Apache&logoColor=red)
+
 
 ---
 
 ### Preferencias Tecnológicas
 
-- Backend
-- Cibersuguridad
-- Diseño de IA
-- Analista de datos
+- ![Static Badge](https://img.shields.io/badge/Backend%20-%20purple?style=plastic)
+
+- ![Static Badge](https://img.shields.io/badge/Cibersuguridad%20-%20red?style=plastic)
+
+- ![Static Badge](https://img.shields.io/badge/Dise%C3%B1o%20de%20IA%20-%20black?style=plastic)
+
+- ![Static Badge](https://img.shields.io/badge/Analista%20de%20datos%20-%20green?style=plastic)
+
 
 ---
 
