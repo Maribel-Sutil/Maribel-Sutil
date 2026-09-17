@@ -4,25 +4,9 @@
 
 ### Estudiando :school:
 
-  - [CIFPD "La Conservera" Región de Murcia.](https://sites.google.com/view/fplaconservera/ies-los-albares-de-cieza)
+  - [IES Miguel Hernadez.](https://iesmiguelhernandez.es/moodle/)
 
-  - [Técnico superior en Desarrollo deAplicaciones Multiplataforma.](https://www.boe.es/eli/es/o/2010/07/13/edu2000)
-
-     - Base de datos
-
-     - Lenguajes de Marca
-
-     - Entornos de Desarrollo
-
-     - Programación
-
-     - Sistemas Informaticos
-
-     - Digitalizaciçon Aplicada a Sectores Productivos
-
-     - Itinerario personal para la empleabilidad I
-
-     - Inglés Profesional
+  - [Técnico superior en Desarrollo de Aplicaciones Web.](https://llegarasalto.com/ofertafp/oferta/12242003)
 
 ---
 
@@ -30,7 +14,13 @@
 
 - ![Static Badge](https://img.shields.io/badge/Java%20-%20red?style=flat)
 
-- ![Static Badge](https://img.shields.io/badge/Python%20-%20%20yellow?style=flat&logo=Python&logoColor=blue)
+- [![PHP](https://img.shields.io/badge/PHP-777BB4?stylego=php&logoColor=white](https://www.php.net/)
+
+- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=cript&logoColor=black](https://developer.mozilla.org/docs/Web/JavaScript)
+ 
+- [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](veloper.mozilla.org/docs/Web/CSS)
+ 
+- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoe](https://www.mysql.com/)
 
 - ![Static Badge](https://img.shields.io/badge/HTML5%20-%20grey?style=flat&logo=HTML5&logoColor=blue)
 
